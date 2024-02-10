@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft_jacky_mod:jacky_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft_jacky_mod:jacky_block"
+  }
+}

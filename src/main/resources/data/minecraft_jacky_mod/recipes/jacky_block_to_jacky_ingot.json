@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft_jacky_mod:jacky_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft_jacky_mod:jacky_ingot",
+    "count": 9
+  }
+}
