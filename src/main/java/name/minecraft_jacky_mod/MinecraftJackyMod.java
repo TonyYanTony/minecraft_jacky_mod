@@ -1,5 +1,6 @@
 package name.minecraft_jacky_mod;
 
+import name.minecraft_jacky_mod.block.ModBlocks;
 import name.minecraft_jacky_mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,5 +14,6 @@ public class MinecraftJackyMod implements ModInitializer {
     @Override
     public void onInitialize() {
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
     }
 }

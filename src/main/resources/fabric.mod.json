@@ -8,8 +8,8 @@
 		"Tony"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://tonyyantony.github.io/minecraft-jacky-mod/",
+		"sources": "https://github.com/TonyYanTony/minecraft_jacky_mod/"
 	},
 	"license": "GPLv3",
 	"icon": "assets/minecraft_jacky_mod/icon.png",
